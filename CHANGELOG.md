@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.0.1-alpha.7...v0.0.1-rc.0
+
+[compare changes](https://github.com/LouisMazel/relizy-unified/compare/v0.0.1-alpha.7...v0.0.1-rc.0)
+
+No relevant changes for this release
+
+
 ## v0.0.1-alpha.6...v0.0.1-alpha.7
 
 [compare changes](https://github.com/LouisMazel/relizy-unified/compare/v0.0.1-alpha.6...v0.0.1-alpha.7)
