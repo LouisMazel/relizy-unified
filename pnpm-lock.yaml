@@ -7,10 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      '@types/unist':
-        specifier: ^2.0.0
-        version: 2.0.11
     devDependencies:
       relizy:
         specifier: ./../../relizy
@@ -29,12 +25,3 @@ importers:
       pck-b:
         specifier: workspace:*
         version: link:../pck-b
-
-packages:
-
-  '@types/unist@2.0.11':
-    resolution: {integrity: sha512-CmBKiL6NNo/OqgmMn95Fk9Whlp2mtvIv+KNpQKN2F4SjvrEesubTRWGYSg+BnWZOnlCaSTU1sMpsBOzgbYhnsA==}
-
-snapshots:
-
-  '@types/unist@2.0.11': {}
