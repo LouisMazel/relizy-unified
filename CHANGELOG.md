@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.0.0...v0.0.1
+
+[compare changes](https://github.com/LouisMazel/relizy-unified/compare/d4d03cc1dda953bdbdbbf4f05e31fb95919abf90...v0.0.1)
+
+### 🚀 Features
+
+- **pck-a:** Bump ([c1ccc9a](https://github.com/LouisMazel/relizy-unified/commit/c1ccc9a))
+
+### ❤️ Contributors
+
+- LouisMazel ([@LouisMazel](https://github.com/LouisMazel))
+
+
 ## v0.0.1-rc.1...v0.0.1-rc.2
 
 [compare changes](https://github.com/LouisMazel/relizy-unified/compare/v0.0.1-rc.1...v0.0.1-rc.2)
